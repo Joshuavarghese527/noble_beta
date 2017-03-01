@@ -22,6 +22,8 @@ gem 'devise', '>= 3.2.4'
 
 gem 'toastr-rails'
 
+gem 'sendgrid-rails', '~> 2.0', '>= 2.0.5' 
+
 
 gem 'rails_12factor', group: :production
 
