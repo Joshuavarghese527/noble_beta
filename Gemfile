@@ -20,6 +20,8 @@ gem 'sass-rails', '>= 3.2'
 
 gem 'devise', '>= 3.2.4'
 
+gem 'toastr-rails'
+
 
 gem 'rails_12factor', group: :production
 
